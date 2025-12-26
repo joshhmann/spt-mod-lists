@@ -1,0 +1,70 @@
+{
+    "Raid Overhaul": {
+        "pattern": "*Raid*Overhaul*",
+        "warning": "Certain settings are not compatible with Fika. Still in testing."
+    },
+    "Declutter": {
+        "pattern": "*Declutter*",
+        "warning": "Works in some cases, others not. Test it for yourself."
+    },
+    "Profile Editor": {
+        "pattern": "*Profile*Editor*",
+        "warning": "Can corrupt presets. Use at your own peril."
+    },
+    "Pity Loot": {
+        "pattern": "*Pity*Loot*",
+        "warning": "Breaks scav runs."
+    },
+    "Friendly PMCs": {
+        "pattern": "*Friendly*PMC*",
+        "warning": "Not friendly when >1 player; may cause weird errors."
+    },
+    "That's Lit": {
+        "pattern": "*That*s*Lit*",
+        "warning": "Needs the sync add-on (Check Pins on Discord) or significant FPS drop."
+    },
+    "LootRadius": {
+        "pattern": "*LootRadius*",
+        "warning": "Not working with latest Fika; view-only issues."
+    },
+    "LootValue": {
+        "pattern": "*LootValue*",
+        "warning": "Will lag game the longer raid goes on."
+    },
+    "Various Hardcore Starts": {
+        "pattern": "*Hardcore*Start*",
+        "warning": "Prevents dedicated client from generating the .bat file."
+    },
+    "Boss Notifier": {
+        "pattern": "*Boss*Notifier*",
+        "warning": "Only accurate for raid host, not clients."
+    },
+    "Amands Graphics": {
+        "pattern": "*Amands*Graphics*",
+        "warning": "Useless for the headless server (visuals)."
+    },
+    "MoreCheckmarks": {
+        "pattern": "*MoreCheckmarks*",
+        "warning": "Client mod that reduces performance"
+    },
+    "EFTApi": {
+        "pattern": "*EFTApi*",
+        "warning": "May cause issues if not synced."
+    },
+    "Game Panel Hud": {
+        "pattern": "*Game*Panel*Hud*",
+        "warning": "Client mod that reduces perfomance."
+    },
+    "Dynamic Maps": {
+        "pattern": "*Dynamic*Maps*",
+        "warning": "Client mod that reduces perfomance."
+    },
+    "Ram Cleaner Interval": {
+        "pattern": "*Ram*Cleaner*",
+        "warning": "Client mod that reduces perfomance."
+    },
+    "All Quests Checkmarks": {
+        "pattern": "*All*Quests*Checkmarks*",
+        "warning": "Causes performance issues."
+    }
+}

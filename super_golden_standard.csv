@@ -1,0 +1,330 @@
+id,name,final_status,confidence,conflict_details,author_link
+106,SPT-AKI Profile Editor,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/106/spt-aki-profile-editor
+147,Medical Attention,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/147/medical-attention
+164,Freecam,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/164/freecam
+179,BALANCED MEDS,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/179/balanced-meds
+180,USEFUL FOODS AND DRINKS,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/180/useful-foods-and-drinks
+236,Server Value Modifier [SVM],Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/236/server-value-modifier-svm
+374,bluehead's AIO Trader,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/374/blueheads-aio-trader
+456,Game Panel HUD,Excluded (Client-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/456/game-panel-hud
+555,Special Slots,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/555/special-slots
+650,Hephaestus,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/650/hephaestus
+701,Fontaine's FOV Fix,Excluded (Client-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/701/fontaines-fov-fix
+755,The Blacklist - flea market enhancements,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/755/the-blacklist-flea-market-enhancements
+791,SAIN - Solarint's AI Modifications - Full AI Combat System Replacement,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/791/sain-solarints-ai-modifications-full-ai-combat-system-replacement
+820,Door Randomizer,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/820/door-randomizer
+824,Task List Fixes,Excluded (Client-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/824/task-list-fixes
+827,Waypoints - Expanded Navmesh,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/827/waypoints-expanded-navmesh
+861,MoreCheckmarks,Excluded (Client-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/861/morecheckmarks
+865,Gilded Key Storage,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/865/gilded-key-storage
+874,AES,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/874/aes
+898,Kmy Tarkov Api,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/898/kmy-tarkov-api
+902,BigBrain,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/902/bigbrain
+909,Item Sell Price,Excluded (Client-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/909/item-sell-price
+910,Item Attribute Fix,Excluded (Client-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/910/item-attribute-fix
+914,Magazine Inspector,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/914/magazine-inspector
+918,BotDebug,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/918/botdebug
+922,Less Restricting Headwear,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/922/less-restricting-headwear
+933,Use Loose Loot,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/933/use-loose-loot
+934,Search Open Containers,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/934/search-open-containers
+938,Custom Interactions,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/938/custom-interactions
+940,Item Context Menu Extended,Kept (Server-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/940/item-context-menu-extended
+972,Munitions Expert (Reboot),Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/972/munitions-expert-reboot
+975,Quick Launcher,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/975/quick-launcher
+981,Balanced Overhaul Of Bullet Spawns (BOOBS),Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/981/balanced-overhaul-of-bullet-spawns-boobs
+994,Set Speed - Set Player Speed with Hotkeys,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/994/set-speed-set-player-speed-with-hotkeys
+1023,WTT- Artem,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1023/wtt-artem
+1064,Andern,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1064/andern
+1089,Kaeno-TraderScrolling,Excluded (Client-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1089/kaeno-traderscrolling
+1090,Color Converter API,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1090/color-converter-api
+1100,ACCURATE CIRCULAR RADAR,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1100/accurate-circular-radar
+1117,Deminvincibility,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1117/deminvincibility
+1131,Live Flea Prices,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1131/live-flea-prices
+1136,Equip From Weapon Rack,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1136/equip-from-weapon-rack
+1140,Quest Tracker,Excluded (Client-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/1140/quest-tracker
+1171,Make PL-15 Great Again!,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1171/make-pl-15-great-again
+1173,Unda,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1173/unda
+1175,Make VPO-101 Great Again!,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1175/make-vpo-101-great-again
+1180,SamSWAT's Fire Support - Arys Reloaded,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1180/samswats-fire-support-arys-reloaded
+1184,Open Sesame,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1184/open-sesame
+1190,BUMA-Revamped (Bosses Use Meta Ammo),Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1190/buma-revamped-bosses-use-meta-ammo
+1219,SP-EFT Manager,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1219/sp-eft-manager
+1229,LumurkFox - PINEAPPLE BLITZ GRENADE (RE-UPLOAD),Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1229/lumurkfox-pineapple-blitz-grenade-re-upload
+1252,SPT Mods Installer,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1252/spt-mods-installer
+1256,Unbreakable keys,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1256/unbreakable-keys
+1260,Reach Extender,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1260/reach-extender
+1263,Epic's All in One,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1263/epics-all-in-one
+1274,Healing Autocancel,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1274/healing-autocancel
+1277,WTT - Head and Voice Selector,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1277/wtt-head-and-voice-selector
+1278,WTT - Pack 'n' Strap,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1278/wtt-pack-n-strap
+1283,Trader Modding And Improved Weapon Building,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1283/trader-modding-and-improved-weapon-building
+1292,SamSWAT's Helicopter Crash Sites - Arys Reloaded,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1292/samswats-helicopter-crash-sites-arys-reloaded
+1298,HandsAreNotBusy,Excluded (Client-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/1298/handsarenotbusy
+1300,Modding Stats Helper - by wara,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1300/modding-stats-helper-by-wara
+1301,DisableScavMode egboggied,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1301/disablescavmode-egboggied
+1303,HarryHideout,Excluded (Client-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1303/harryhideout
+1305,Repair Max Durability,Kept (Server-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/1305/repair-max-durability
+1340,WTT - The Long Lost Heads of Yojenkz,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1340/wtt-the-long-lost-heads-of-yojenkz
+1341,Quick Move To Containers,Excluded (Client-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1341/quick-move-to-containers
+1342,UI Fixes,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1342/ui-fixes
+1343,Skipper,Excluded (Client-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1343/skipper
+1358,BrightLasers,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1358/brightlasers
+1362,Repeatable Quest Config,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1362/repeatable-quest-config
+1371,Environment Replace,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1371/environment-replace
+1374,Player Encumbrance Bar,Excluded (Client-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1374/player-encumbrance-bar
+1387,Simple Crosshair,Excluded (Client-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/1387/simple-crosshair
+1404,Legs the Trader,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1404/legs-the-trader
+1416,Default Fire Mode Fixer,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1416/default-fire-mode-fixer
+1425,Un-flashbang Hideout,Excluded (Client-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/1425/un-flashbang-hideout
+1426,UnityToolkit,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1426/unitytoolkit
+1431,Dynamic Maps,Excluded (Client-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/1431/dynamic-maps
+1437,Simple Workout QTE,Excluded (Client-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1437/simple-workout-qte
+1453,Make Shotguns Great Again!,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1453/make-shotguns-great-again
+1454,CWX-MegaMod,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1454/cwx-megamod
+1469,AutoDeposit,Excluded (Client-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/1469/autodeposit
+1474,Disable Traitor Scavs,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1474/disable-traitor-scavs
+1477,AutoRun,Excluded (Client-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/1477/autorun
+1519,WTT - W.A.A.C. (Women's Advanced Assault Corps),Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1519/wtt-waac-womens-advanced-assault-corps
+1527,Trader Namer,Excluded (Client-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1527/trader-namer
+1531,Not So Secure Container,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1531/not-so-secure-container
+1533,More Tag Colours,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1533/more-tag-colours
+1537,sgtlaggy's Quest Tweaks,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1537/sgtlaggys-quest-tweaks
+1538,Ref - SPT Friendly Quests,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1538/ref-spt-friendly-quests
+1539,Bosses Have Lega Medals,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1539/bosses-have-lega-medals
+1542,Debug Tooltip,Excluded (Client-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1542/debug-tooltip
+1551,Remove The Dead,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1551/remove-the-dead
+1554,ALL AMMO TRADER - UPDATED BY TILTUSHKIN,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1554/all-ammo-trader-updated-by-tiltushkin
+1564,Medical SICC Case (MICC) - UPDATED,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1564/medical-sicc-case-micc-updated
+1569,Wolfik's Heavy Trooper Masks - Reupload,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1569/wolfiks-heavy-trooper-masks-reupload
+1575,Increase Climb Height,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1575/increase-climb-height
+1576,INFMEDS-Update BY WispsFlame,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1576/infmeds-update-by-wispsflame
+1582,Headshot Darkness,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1582/headshot-darkness
+1591,Better Rear Sights,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1591/better-rear-sights
+1594,APBS - Acid's Progressive Bot System,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1594/apbs-acids-progressive-bot-system
+1598,MOPP(Magyeong's Outfit Plus Pack),Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1598/moppmagyeongs-outfit-plus-pack
+1617,give-ui,Excluded (Client-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1617/give-ui
+1619,Lots of Loot Redux,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1619/lots-of-loot-redux
+1621,Shadow Flicker Fix,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1621/shadow-flicker-fix
+1629,SPT-Korean-Project-Locale-Patcher,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1629/spt-korean-project-locale-patcher
+1652,Stop Hotkey Auto-Vault,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1652/stop-hotkey-auto-vault
+1657,MergeConsumables,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1657/mergeconsumables
+1675,Start Collector Early,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1675/start-collector-early
+1677,Zero2Hero++ Unheard Edition,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1677/zero2hero-unheard-edition
+1745,Discarder,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1745/discarder
+1755,Scavs 4 All,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1755/scavs-4-all
+1760,Audio Accessibility Indicators,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1760/audio-accessibility-indicators
+1776,WTT - Komrade Kid by Nyetendo,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1776/wtt-komrade-kid-by-nyetendo
+1782,SPT-VR,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1782/spt-vr
+1797,Hazardifier,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1797/hazardifier
+1831,Agony SFX,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1831/agony-sfx
+1835,SOCOM Armory,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1835/socom-armory
+1853,StatTrack,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1853/stattrack
+1858,Enemy Markers,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1858/enemy-markers
+1860,Old Tarkov Movement (No Inertia),Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1860/old-tarkov-movement-no-inertia
+1861,Stash Management Helper,Excluded (Client-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1861/stash-management-helper
+1866,Gunsmith Tweaks,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1866/gunsmith-tweaks
+1867,QCAdjustments,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1867/qcadjustments
+1873,Bot Callsigns - Reloaded,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1873/bot-callsigns-reloaded
+1884,Continuous Healing,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1884/continuous-healing
+1888,Better Keys NG,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1888/better-keys-ng
+1895,[SAIN] Twitch Players,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1895/sain-twitch-players
+1896,Tarkov HD Item Rework Project,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1896/tarkov-hd-item-rework-project
+1923,Lockable Doors,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1923/lockable-doors
+1925,NerfBotGrenades,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1925/nerfbotgrenades
+1933,Live Like Experience - SAIN Preset,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1933/live-like-experience-sain-preset
+1936,No Unfair Trade System (NUTS),Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1936/no-unfair-trade-system-nuts
+1939,BETTER ATTACHMENTS,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1939/better-attachments
+1945,Ai Limit,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1945/ai-limit
+1946,Arse Scratching Service (ASS),Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1946/arse-scratching-service-ass
+1950,Weapon Customizer,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1950/weapon-customizer
+1960,VrHands Ultimate,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1960/vrhands-ultimate
+1965,Plant Time Modifier - Updated by CrocodileJonesy,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1965/plant-time-modifier-updated-by-crocodilejonesy
+1971,Croupier - loadout generator + flea quicksell,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1971/croupier-loadout-generator-flea-quicksell
+1973,Event Auto Profile Backup,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/1973/event-auto-profile-backup
+1978,Configurable End Raid Status,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1978/configurable-end-raid-status
+1986,GTFO NG,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1986/gtfo-ng
+1988,Low Budget Bullet Time NG,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/1988/low-budget-bullet-time-ng
+2003,HollywoodFX,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2003/hollywoodfx
+2008,Transmog,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2008/transmog
+2010,Definitive Weapon Variants,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2010/definitive-weapon-variants
+2016,Delayed Flea Sales,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2016/delayed-flea-sales
+2025,All Quests Checkmarks,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2025/all-quests-checkmarks
+2032,NoCheese,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2032/nocheese
+2037,Colored Tracers,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2037/colored-tracers
+2046,PAUSE,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2046/pause
+2049,Add Secret Exfil Notes to Caches,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2049/add-secret-exfil-notes-to-caches
+2056,Realistic Thermal Scopes,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2056/realistic-thermal-scopes
+2058,SPTCorpseCleaner,Excluded (Client-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/2058/sptcorpsecleaner
+2059,SPTExfilNow,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2059/sptexfilnow
+2060,Secure Mapbook,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2060/secure-mapbook
+2063,UnderFire - An Adrenaline Effect,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2063/underfire-an-adrenaline-effect
+2066,Expanded FPS Limit,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2066/expanded-fps-limit
+2069,Loot Instant Search,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2069/loot-instant-search
+2070,VCO - Viewmodel Camera Offset,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2070/vco-viewmodel-camera-offset
+2076,Hideout In Progress,Excluded (Client-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/2076/hideout-in-progress
+2087,Light's Voice Acting framework,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2087/lights-voice-acting-framework
+2089,Light's Automatic Identifier,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2089/lights-automatic-identifier
+2091,Entry Point Selector,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2091/entry-point-selector
+2093,Virtual's Custom Quests - Updated,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2093/virtuals-custom-quests-updated
+2097,ABPS - Acid's Bot Placement System,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2097/abps-acids-bot-placement-system
+2101,SPT Leaderboard,Excluded (Client-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/2101/spt-leaderboard
+2106,Quests Extended,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2106/quests-extended
+2112,Continuous Load Ammo,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2112/continuous-load-ammo
+2114,SPTarkovAmmoCases,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2114/sptarkovammocases
+2120,Time & Weather Changer NG,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2120/time-weather-changer-ng
+2121,Increase Look Direction,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2121/increase-look-direction
+2125,DeHazardifier - Updated by Tetris,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2125/dehazardifier-updated-by-tetris
+2129,Air Filter Warning,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2129/air-filter-warning
+2132,WTT - Corner Store,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2132/wtt-corner-store
+2144,Skill Distribution,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2144/skill-distribution
+2165,Hall of Fame Improvements (3.11.x port),Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2165/hall-of-fame-improvements-311x-port
+2173,VRAM Cleaner,Excluded (Client-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/2173/vram-cleaner
+2179,Call Of Duty Quotes,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2179/call-of-duty-quotes
+2188,Music Plays In Hideout,Excluded (Client-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2188/music-plays-in-hideout
+2190,Recoil Rework,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2190/recoil-rework
+2193,Set of Gun Presets for Hephaestus,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2193/set-of-gun-presets-for-hephaestus
+2200,Dynamic External Resolution Patch (DERP),Excluded (Client-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2200/dynamic-external-resolution-patch-derp
+2201,HollywoodCam,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2201/hollywoodcam
+2206,Item Preview QoL + screenshots,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2206/item-preview-qol-screenshots
+2207,Fast Sell In Flea,Excluded (Client-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/2207/fast-sell-in-flea
+2213,Janky's Visual Assist,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2213/jankys-visual-assist
+2214,DoorDash,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2214/doordash
+2221,BALL - Better Ammo Loading List,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2221/ball-better-ammo-loading-list
+2226,[TTC] Tarkov Trading Cards,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2226/ttc-tarkov-trading-cards
+2235,Sharper Tarkov Better Life,Excluded (Client-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2235/sharper-tarkov-better-life
+2238,Task Automation,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2238/task-automation
+2239,Couturier - gear and clothing pack,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2239/couturier-gear-and-clothing-pack
+2240,LET ME OUT,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2240/let-me-out
+2264,Battle Ambience,Excluded (Client-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2264/battle-ambience
+2274,Jiang Hu 江湖,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2274/jiang-hu
+2277,Caliber Split Ammo Cases,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2277/caliber-split-ammo-cases
+2278,Caliber Split Magazine Cases,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2278/caliber-split-magazine-cases
+2288,Eco's Attachment Emporium,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2288/ecos-attachment-emporium
+2295,Traders LL Requirements,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2295/traders-ll-requirements
+2299,Show Me The Money (Item Pricing),Excluded (Client-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/2299/show-me-the-money-item-pricing
+2304,Dragon Den - Neon Signs,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2304/dragon-den-neon-signs
+2310,WTT - CommonLib,Kept (Server-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/2310/wtt-commonlib
+2314,Season Rotator,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2314/season-rotator
+2315,Ombarella,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2315/ombarella
+2318,Tarkov Rare Collectibles,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2318/tarkov-rare-collectibles
+2326,Project Fika,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2326/project-fika
+2328,Zegas bodycam reshade,Excluded (Client-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2328/zegas-bodycam-reshade
+2329,BushWhacker - Standalone,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2329/bushwhacker-standalone
+2330,Dragon Den - Euphoria,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2330/dragon-den-euphoria
+2336,Dragon Den - Dev Tool,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2336/dragon-den-dev-tool
+2339,Preview Sizer,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2339/preview-sizer
+2341,RaidRecord,Kept (Server-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/2341/raidrecord
+2342,UNTAR Go Home!,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2342/untar-go-home
+2344,Dynamic Item Weights,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2344/dynamic-item-weights
+2348,SameSideIsFriendly,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2348/samesideisfriendly
+2350,Tarkov Shocker (OpenShock),Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2350/tarkov-shocker-openshock
+2357,Project Fika - Server,Kept (Server-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/2357/project-fika-server
+2358,DebugPlus,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2358/debugplus
+2360,Server Tweaks - Discount SVM,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2360/server-tweaks-discount-svm
+2361,Welcome Messages,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2361/welcome-messages
+2364,NoMenuFPSLimit,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2364/nomenufpslimit
+2368,ShelfBlacklistEditor (formerly It's a Goddamn Shelf),Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2368/shelfblacklisteditor-formerly-its-a-goddamn-shelf
+2369,Jero Backpack,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2369/jero-backpack
+2371,FIR Fence Purchases,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2371/fir-fence-purchases
+2373,Slimmer Magazines,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2373/slimmer-magazines
+2374,Try To Act Human (SAIN Preset) (UNSUPPORTED),Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2374/try-to-act-human-sain-preset-unsupported
+2376,KappaMarker,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2376/kappamarker
+2377,Bring Me To Life - Revival Mod (FIKA compatible),Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2377/bring-me-to-life-revival-mod-fika-compatible
+2378,SPT Mod Tracker,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2378/spt-mod-tracker
+2380,Black Exfil Revision,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2380/black-exfil-revision
+2383,Skills Extended,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2383/skills-extended
+2384,Hideout Automation,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2384/hideout-automation
+2385,Disciples Ballistic Case Plus,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2385/disciples-ballistic-case-plus
+2386,Use Items Anywhere,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2386/use-items-anywhere
+2389,Expanded Task Text,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2389/expanded-task-text
+2390,Remove FIR from Hideout,Excluded (Client-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2390/remove-fir-from-hideout
+2391,Fair Bot Health,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2391/fair-bot-health
+2392,Provisions Trader,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2392/provisions-trader
+2393,FikaDynamicAI,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2393/fikadynamicai
+2394,Instant Insurance,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2394/instant-insurance
+2395,Lacy's PvE Tweaks,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2395/lacys-pve-tweaks
+2396,Dragon Den - Mod Manager,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2396/dragon-den-mod-manager
+2397,Start Is This A Reference? Early,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2397/start-is-this-a-reference-early
+2398,Multiply Weight Limits,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2398/multiply-weight-limits
+2399,Inventory Organizing Features (Ported to 4.0.x),Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2399/inventory-organizing-features-ported-to-40x
+2402,AmmoBox1x1,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2402/ammobox1x1
+2403,Trader Jeronimo,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2403/trader-jeronimo
+2404,Remove Backpack Nesting Restrictions,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2404/remove-backpack-nesting-restrictions
+2405,LetMeRightClick,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2405/letmerightclick
+2406,Remove The Irremovables,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2406/remove-the-irremovables
+2407,QuickSellFlea,Excluded (Client-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/2407/quicksellflea
+2408,Politely Remove Events,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2408/politely-remove-events
+2409,"Not The Face, Okay?",Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2409/not-the-face-okay
+2411,Eternal Insurance,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2411/eternal-insurance
+2412,Weapon Attachment Modifier,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2412/weapon-attachment-modifier
+2414,Peacemaker Continued,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2414/peacemaker-continued
+2415,Canted Aiming,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2415/canted-aiming
+2416,Enable Labyrinth,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2416/enable-labyrinth
+2418,FoodDrink1x1,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2418/fooddrink1x1
+2420,Peltor TEP-300 earplugs backport and fixes,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2420/peltor-tep-300-earplugs-backport-and-fixes
+2421,Trader QoL Update By WispsFlame,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2421/trader-qol-update-by-wispsflame
+2422,Foldables,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2422/foldables
+2423,C11 - True North,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2423/c11-true-north
+2424,Pulse,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2424/pulse
+2425,SamSWAT's Anime Rear Sights - 4.0 Port,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2425/samswats-anime-rear-sights-40-port
+2426,MoreBotsAPI,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2426/morebotsapi
+2427,RUAF Come Home!,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2427/ruaf-come-home
+2428,Medical Modifier,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2428/medical-modifier
+2429,VisorEffectManager,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2429/visoreffectmanager
+2430,ODT's Item Info - SPT 4.0,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2430/odts-item-info-spt-40
+2431,FPV Drone Mod,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2431/fpv-drone-mod
+2432,Dragon Den - Hitmarker,Excluded (Client-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/2432/dragon-den-hitmarker
+2433,Dragon Den - Killfeed,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2433/dragon-den-killfeed
+2434,500 Euro for Skier,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2434/500-euro-for-skier
+2438,Level Endurance and Strength,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2438/level-endurance-and-strength
+2440,SPTarkovSpeedLoader,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2440/sptarkovspeedloader
+2441,NARCONet - Mod Sync,Kept (Server-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/2441/narconet-mod-sync
+2442,Server Memory Cleaner,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2442/server-memory-cleaner
+2443,Backdoor Bandit - NG,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2443/backdoor-bandit-ng
+2444,Half-Life HEV Suit,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2444/half-life-hev-suit
+2445,Natalya Trader,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2445/natalya-trader
+2446,Handy Toolbox,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2446/handy-toolbox
+2448,SNACC Pack,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2448/snacc-pack
+2449,Fika Headless Launcher,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2449/fika-headless-launcher
+2451,Echoes of Tarkov - Requisitions - NG,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2451/echoes-of-tarkov-requisitions-ng
+2452,Lockdown,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2452/lockdown
+2455,AK Rail Extension - NG,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2455/ak-rail-extension-ng
+2456,SALCOs ARMORY,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2456/salcos-armory
+2458,Bela.s.Tweaks,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2458/belastweaks
+2459,Ammo Weight Modifier,Kept (Server-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/2459/ammo-weight-modifier
+2460,Bela.s.CustomWatermark,Excluded (Client-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2460/belascustomwatermark
+2461,craftable containers,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2461/craftable-containers
+2462,LycorisOni's FleaAdjustment Mod,Excluded (Client-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2462/lycorisonis-fleaadjustment-mod
+2463,VanillaAmmoCrafts,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2463/vanillaammocrafts
+2469,Custom Recipes,Excluded (Client-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2469/custom-recipes
+2470,Keep Starting Gear,Kept (Server-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/2470/keep-starting-gear
+2471,Check Mods,Kept (Server-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/2471/check-mods
+2472,Standard EoD Edition,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2472/standard-eod-edition
+2475,Restore The Old Number Of Medical Uses,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2475/restore-the-old-number-of-medical-uses
+2477,DaGrogs 366 Content Pack,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2477/dagrogs-366-content-pack
+2479,Weighted Season Randomizer,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2479/weighted-season-randomizer
+2480,BarterItemsStacks,Excluded (Client-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2480/barteritemsstacks
+2481,Crates In Airdrop,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2481/crates-in-airdrop
+2482,Progression Tracker,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2482/progression-tracker
+2483,Boxes At Ref (BARF) - NG,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2483/boxes-at-ref-barf-ng
+2484,Marlin MXLR .308 ME Lever-Action Rifle,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2484/marlin-mxlr-308-me-lever-action-rifle
+2487,Ratshot of Unusual Size,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2487/ratshot-of-unusual-size
+2489,Headshot Damage Redirection,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2489/headshot-damage-redirection
+2491,Zasten,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2491/zasten
+2493,Dynamic Flea Price,Excluded (Client-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2493/dynamic-flea-price
+2494,Keycard Door Simplify Breach,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2494/keycard-door-simplify-breach
+2495,Impractical Tactical,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2495/impractical-tactical
+2496,Specially Weightless,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2496/specially-weightless
+2498,ScavReplacer,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2498/scavreplacer
+2499,WikiLinks,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2499/wikilinks
+2500,Wishlist Extended,Excluded (Client-Side),HIGH - VERIFIED BY AUTHOR,Scan and Author Description agree.,https://forge.sp-tarkov.com/mod/2500/wishlist-extended
+2501,Blackhorse311 - ForcibleEntry,Kept (Manual Override - Server),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2501/blackhorse311-forcibleentry
+2502,EOTech Fix,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2502/eotech-fix
+2503,Nerf Frostbite,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2503/nerf-frostbite
+2504,Hideout Customization Unlocker,Excluded (Client-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2504/hideout-customization-unlocker
+2505,SPT Bridge UI,Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2505/spt-bridge-ui
+2506,Funtar,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2506/funtar
+2507,Remove Frostbite Effect,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2507/remove-frostbite-effect
+2508,CactusPie's Transfer Loot Into Container Automatically (4.0.x),Excluded (Manual Override - Client),HIGH - MANUALLY VERIFIED,User override applied.,https://forge.sp-tarkov.com/mod/2508/cactuspies-transfer-loot-into-container-automatically-40x
+2509,Ammo Clarity,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2509/ammo-clarity
+2510,FikaSync,Kept (Server-Side),Standard,Structural scan verified.,https://forge.sp-tarkov.com/mod/2510/fikasync

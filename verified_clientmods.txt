@@ -1,0 +1,14 @@
+https://forge.sp-tarkov.com/mod/1089/kaeno-traderscrolling
+https://forge.sp-tarkov.com/mod/1140/quest-tracker
+https://forge.sp-tarkov.com/mod/1277/wtt-head-and-voice-selector
+https://forge.sp-tarkov.com/mod/1298/handsarenotbusy
+https://forge.sp-tarkov.com/mod/1343/skipper
+https://forge.sp-tarkov.com/mod/1431/dynamic-maps
+https://forge.sp-tarkov.com/mod/1621/shadow-flicker-fix
+https://forge.sp-tarkov.com/mod/2200/dynamic-external-resolution-patch-derp
+https://forge.sp-tarkov.com/mod/2206/item-preview-qol-screenshots
+https://forge.sp-tarkov.com/mod/2221/ball-better-ammo-loading-list
+https://forge.sp-tarkov.com/mod/701/fontaines-fov-fix
+https://forge.sp-tarkov.com/mod/824/task-list-fixes
+https://forge.sp-tarkov.com/mod/861/morecheckmarks
+https://forge.sp-tarkov.com/mod/2003/hollywoodfx
