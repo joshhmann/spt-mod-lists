@@ -50,7 +50,6 @@ https://forge.sp-tarkov.com/mod/902/bigbrain
 https://forge.sp-tarkov.com/mod/922/less-restricting-headwear
 https://forge.sp-tarkov.com/mod/2430/odts-item-info-spt-40
 https://forge.sp-tarkov.com/mod/2288/ecos-attachment-emporium
-https://forge.sp-tarkov.com/mod/1835/socom-armory
 https://forge.sp-tarkov.com/mod/2239/couturier-gear-and-clothing-pack
 https://forge.sp-tarkov.com/mod/1598/moppmagyeongs-outfit-plus-pack
 https://forge.sp-tarkov.com/mod/1256/unbreakable-keys
