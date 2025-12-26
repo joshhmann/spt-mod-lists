@@ -12,3 +12,5 @@ https://forge.sp-tarkov.com/mod/701/fontaines-fov-fix
 https://forge.sp-tarkov.com/mod/824/task-list-fixes
 https://forge.sp-tarkov.com/mod/861/morecheckmarks
 https://forge.sp-tarkov.com/mod/2003/hollywoodfx
+https://forge.sp-tarkov.com/mod/2509/ammo-clarity
+https://forge.sp-tarkov.com/mod/2502/eotech-fix
