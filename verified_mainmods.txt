@@ -55,3 +55,4 @@ https://forge.sp-tarkov.com/mod/1598/moppmagyeongs-outfit-plus-pack
 https://forge.sp-tarkov.com/mod/1256/unbreakable-keys
 https://forge.sp-tarkov.com/mod/2087/lights-voice-acting-framework
 https://forge.sp-tarkov.com/mod/2512/wtt-content-backport
+https://forge.sp-tarkov.com/mod/2511/wtt-black-division-redacted-home
